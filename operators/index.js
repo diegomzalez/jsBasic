@@ -1,0 +1,21 @@
+let a = 1;
+let b = 2;
+let age = 40;
+age++;
+age += 2;
+
+console.log(3+2);
+console.log(50-10);
+console.log(10*20);
+console.log(20/2);
+console.log("Diego "+"González");
+console.log(!false);
+console.log(a==1);
+console.log(a=="1");
+console.log(a==="1");
+console.log(5<3);
+console.log(5>3);
+console.log(5<=6);
+console.log(5>=6);
+console.log(a && b);
+console.log(a || b);
